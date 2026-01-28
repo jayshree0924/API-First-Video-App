@@ -19,7 +19,6 @@ The frontend never receives raw YouTube URLs. Video streaming is secured using s
 - JWT stored securely on device using SecureStore
 - All protected routes require Authorization header
 
----
 
 ## 🎥 Video Abstraction Strategy
 
